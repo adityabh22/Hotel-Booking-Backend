@@ -1,2 +1,2 @@
 # Hotel-Booking-Backend 
-Github repository for Frontend-https://github.com/adityabh22/Hotel-Booking-Frontend
+Github repository of Frontend-https://github.com/adityabh22/Hotel-Booking-Frontend
